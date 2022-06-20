@@ -10,7 +10,7 @@ font-family: 'Poppins', sans-serif; */
 header {
   width: 100vw;
   height: 100vh;
-  background: url(./img/hero.png);
+  background: url(./img/hero.jpg);
   background-position: bottom;
   background-size: cover;
   display: flex;
